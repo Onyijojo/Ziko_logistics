@@ -1,0 +1,15 @@
+Open Task scheduler on the system
+Create a Task
+    Give it a name
+    Set to run whether user is logged on or not
+
+Go trigger, add new trigger
+    set to run daily, repeat task every 1hour
+    ok 
+Go to Action
+start a program
+copy the pyhton direction(you can get this by typing where python)
+Add argumnet - put the name of the file you want to run, in this instance, etl_pipeline.py
+Start in - Copy the folder path in this instance - C:\Users\Admin\OneDrive\Documents\10Alytics_Training\Ziko_logistics
+
+ok
